@@ -1,0 +1,18 @@
+.git/
+.1024.nix
+.1024feature*
+.nfs*
+*.dll
+*.swp
+.paas-unit-*
+core.*
+.breakpoints
+.idea/
+.vscode/
+# Clacky-provided ignore rules
+.DS_Store
+*.log
+node_modules
+.env
+# Custom rules
+*.tmp
